@@ -10,7 +10,7 @@ The Crowded Newsroom is [on Twitter](https://twitter.com/crowdednewsroom) [@crow
 # Stories
 * [Mitch McConnell's 2020 Reelection](mitch-election-2020)
 
-To pitch a story, edit the [pitches](pitches)
+To pitch a story, edit the [PITCHES.md](PITCHES.md)
 
 ## Contribute
 This is supposed to be a crowdsourced newsroom, so no one person is expected to do all of the work. Every little bit of work helps. Me writing this README is helpful. Someone else editing it to make it better, is being helpful. Even if you find one little bit of information that makes the story better, that is useful. 
