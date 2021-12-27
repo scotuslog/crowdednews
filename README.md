@@ -1,9 +1,11 @@
-# crowdednews
-Crowded News is a feeble attempt to create a crowdsourced newsroom. I honestly doubt anyone will do this, but what the hell.
+# The Crowded Newsrooms
+The Crowded Newsroom is a feeble attempt to create a crowdsourced newsroom. I honestly doubt anyone will do this, but what the hell.
 
-The idea is that "we" take on stories. Then "we" research and write the stories.
+The idea is that "we" take on stories. Then "we" research and write those stories.
 
 For instance, the first story idea is about Mitch McConnell's last reelection victory. To build that story, "we" research McConnell's election wins. Read the coverage of McConnell's campaign. Interview people who worked for the campaign, or against the campaign. Interview people who study these sorts of elections and get their thoughts.
+
+The Crowded Newsroom is [on Twitter](https://twitter.com/crowdednewsroom) [@crowdednewsroom](https://twitter.com/crowdednewsroom).
 
 # Stories
 * [Mitch McConnell's 2020 Reelection](mitch-election-2020)
@@ -28,4 +30,6 @@ All research should include verifiable references.
 Interviews performed should be fully documented and transcribed. The transcription doesn't need to be of the entire interview, but the relevant sections should be trascribed verbatim. If an interview has been recorded, the complete interview audio should be uploaded in a reasonable audio quality.
 
 Plagiarism is never OK.
+
+The Crowded Newsroom is [on Twitter](https://twitter.com/crowdednewsroom) [@crowdednewsroom](https://twitter.com/crowdednewsroom).
 
