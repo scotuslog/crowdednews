@@ -18,4 +18,4 @@ Please add more questions, even if you don't have time to answer them yourself.
 * What do Kentucky Democrats think about McConnell's 2020 win?
   * Look for interviews done during and after the campaign for people talking about McConnell.
   * Interview people who worked for or against McConnell in 2020.
-
+* Where did McConnell get his campaign money?
