@@ -1,5 +1,7 @@
 # RESEARCH
-Please edit file and add all of your research here. If your research is messy, that's OK, it's also OK to work on things on your local computer before putting them here for everyone to see.
+Please edit this file and add all of your research here. If your research is messy, that's OK, it's also OK to work on things on your local computer before putting them here for everyone to see.
+
+Please add more questions, even if you don't have time to answer them yourself.
 
 # QUESTIONS
 * What does the data say about McConnell's 2020 win?
