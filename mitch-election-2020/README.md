@@ -8,7 +8,9 @@
 > equal, and that democracy is a good thing?
 > 
 > If so, you should help out and do some research or writing for this story. 
-> Join the crowded newsroom by editing [this research file](RESEARCH.md).
+> Join the crowded newsroom by editing [this research file on github.com](https://github.com/scotuslog/crowdednews/edit/main/mitch-election-2020/RESEARCH.md).
+> 
+> You don't have to add anything to the RESEARCH.md document. You can just [edit this file right now on github.com](> [Edit this file on github.com](https://github.com/scotuslog/crowdednews/edit/main/mitch-election-2020/README.md), become contributor).
 > 
 > View [RESEARCH.md](RESEARCH.md).
 
@@ -33,15 +35,26 @@ The Huddleston campaign voiced concerns about dirty politics in 1984.
 ![AP story snippet](ap-mcconnell-1984-irregularities.jpg)
 
 ### 1990
+> We need more info here about the 2014 race
+> Edit this file on github.com and contribute.
+> [Edit this file on github.com](https://github.com/scotuslog/crowdednews/edit/main/mitch-election-2020/README.md) and contribute.
 
 ### 1996
+> We need more info here about the 2014 race
+> Edit this file on github.com and contribute.
+> [Edit this file on github.com](https://github.com/scotuslog/crowdednews/edit/main/mitch-election-2020/README.md) and contribute.
 
 ### 2002
+> We need more info here about the 2014 race
+> [Edit this file on github.com](https://github.com/scotuslog/crowdednews/edit/main/mitch-election-2020/README.md) and contribute.
 
 ### 2008
+> We need more info here about the 2014 race
+> [Edit this file on github.com](https://github.com/scotuslog/crowdednews/edit/main/mitch-election-2020/README.md) and contribute.
 
 ### 2014
 > We need more info here about the 2014 race
+> Edit this file on github.com and contribute.
 McConnell stomped all over his Democratic challenger in 2014. Alison Lundergan Grimes did better than McGrath would do in 2020, but not by much. Lungergran Grimes got just 40.7 percent of the vote. McConnell got 56.2 percent.
 
 The total vote count in 2014 for this Kentucky senate seat was 1.4 million
