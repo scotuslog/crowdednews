@@ -1,4 +1,4 @@
-# The Crowded Newsrooms
+# The Crowded Newsroom
 The Crowded Newsroom is a feeble attempt to create a crowdsourced newsroom. I honestly doubt anyone will do this, but what the hell.
 
 The idea is that "we" take on stories. Then "we" research and write those stories.
