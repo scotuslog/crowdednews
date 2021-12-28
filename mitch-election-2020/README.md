@@ -16,4 +16,12 @@ Every county in Kentucky. With his latest 2020 victory, Senator Mitch McConnell 
 
 Amy McGrath ran against McConnell in 2020. She didn't do well, only pulling in 38.2 percent of the vote. The only candidate to do worse against McConnell in his 6 reelection bids was Lois Combs Weinberg. Weinberg got only 35.3 percent in 2002.
 
-That 1984 election that started McConnell's senate career was tight. McConnell road that Reagan rocket ship and barely beat Democratic Incumbent Walter Dee Huddleston. The margin of victory was 3,437 votes out of more than 1.2 million votes cast, according to [the Associated Press at the time](https://news.google.com/newspapers?id=XLRDAAAAIBAJ&pg=1340,2543281).
+That 1984 election that started McConnell's senate career was tight. McConnell road that Ronald Reagan rocket ship to the US Senate by barely beating Democratic Incumbent Walter Dee Huddleston. The margin of victory was 3,437 votes out of more than 1.2 million votes cast, according to [the Associated Press at the time](https://news.google.com/newspapers?id=XLRDAAAAIBAJ&pg=1340,2543281).
+
+[![Associated Press Story About 1984 McConnell Senate Win](ap-mcconnell-1984-win-story.jpg)](https://news.google.com/newspapers?id=XLRDAAAAIBAJ&pg=1340,2543281)
+
+[Google News Archive](https://news.google.com/newspapers?id=XLRDAAAAIBAJ&pg=1340,2543281)
+
+The Huddleston campaign voiced concerns about dirty politics in 1984.
+
+![AP story snippet](ap-mcconnell-1984-irregularities.jpg)
