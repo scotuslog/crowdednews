@@ -10,7 +10,7 @@
 > If so, you should help out and do some research or writing for this story. 
 > Join the crowded newsroom by editing [this research file on github.com](https://github.com/scotuslog/crowdednews/edit/main/mitch-election-2020/RESEARCH.md).
 > 
-> You don't have to add anything to the RESEARCH.md document. You can just [edit this file right now on github.com](> [Edit this file on github.com](https://github.com/scotuslog/crowdednews/edit/main/mitch-election-2020/README.md), become contributor).
+> You don't have to add anything to the RESEARCH.md document. [Edit this file on github.com](https://github.com/scotuslog/crowdednews/edit/main/mitch-election-2020/README.md), become contributor).
 > 
 > View [RESEARCH.md](RESEARCH.md).
 
