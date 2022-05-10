@@ -1,5 +1,5 @@
 # General Strike
-The first general strike is scheduled for June 13, 2022.
+The first general strike is scheduled for June 13, 2022. Depending on the response, this is going to be a monthly general strike. A general strike every 2nd Monday of every month.
 
 ## What do I do?
 * Call in sick to work or take a vacation day
